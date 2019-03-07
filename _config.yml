@@ -38,6 +38,7 @@ social_media:
 
 topics:
   - name: python
+    web_url: https://github.com/topics/python
 
   - name: CSS
     web_url: https://github.com/topics/css
